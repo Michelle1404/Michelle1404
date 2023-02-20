@@ -11,4 +11,4 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Michelle1404&show_icons=true&theme=synthwave)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Michelle1404&langs_count=3&show_icons=true&theme=synthwave)]
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Michelle1404&count_private=true)
+
