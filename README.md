@@ -69,7 +69,7 @@ class michelle:
 
 <br>
 
-[![](https://visitcount.itsvg.in/api?id=GummiLunge&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Michelle1404&label=Profile%20Views&color=1&icon=3&pretty=false)](https://visitcount.itsvg.in)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
