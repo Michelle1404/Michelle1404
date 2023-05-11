@@ -13,7 +13,7 @@ class michelle:
     info.aboutme = {
             "email": ["web.michelle.dev@gmail.com"],
             "personal info": ["Michelle", "Wollowski", "23", "Female"],
-            "portfolio": ["Work in progress"],
+            "portfolio": ["(https://michelle-portfolio-two.vercel.app/)"],
             "location": ["Germany", "Niedersachsen"],
     }
 ```
@@ -63,8 +63,6 @@ class michelle:
 </div>
 
 <br>
-
-[![](https://visitcount.itsvg.in/api?id=Michelle1404&label=Profile%20Views&color=1&icon=3&pretty=false)](https://visitcount.itsvg.in)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
