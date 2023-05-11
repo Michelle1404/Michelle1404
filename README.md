@@ -47,7 +47,7 @@ class michelle:
 <div align="center">
   
   ![Anurag's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Michelle1404&show_icons=true&theme=tokyonight)
-  [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Michelle1404&langs_count=3&show_icons=true&theme=tokyonight)]
+  ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Michelle1404&langs_count=3&show_icons=true&theme=tokyonight&hide=css)
 
 </div>
 
