@@ -13,7 +13,7 @@ class michelle:
    info.aboutme = {
            "email": ["web.michelle.dev@gmail.com"],
            "personal info": ["Michelle", "Wollowski", "23", "Female"],
-           "portfolio": ["Work in progress"],
+           "portfolio": ["https://michelle-portfolio-two.vercel.app/"],
            "location": ["Germany", "Niedersachsen"],
    }
 ```
@@ -46,8 +46,8 @@ class michelle:
 
 <div align="center">
   
-  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Michelle1404&show_icons=true&theme=tokyonight)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Michelle1404&langs_count=3&show_icons=true&theme=tokyonight)]
+  ![Anurag's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Michelle1404&show_icons=true&theme=tokyonight)
+  [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Michelle1404&langs_count=3&show_icons=true&theme=tokyonight)]
 
 </div>
 
@@ -65,7 +65,5 @@ class michelle:
 </div>
 
 <br>
-
-[![](https://visitcount.itsvg.in/api?id=Michelle1404&label=Profile%20Views&color=1&icon=3&pretty=false)](https://visitcount.itsvg.in)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
